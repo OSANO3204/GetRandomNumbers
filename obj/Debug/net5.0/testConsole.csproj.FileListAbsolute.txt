@@ -1,0 +1,16 @@
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.exe
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.deps.json
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.json
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.dev.json
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.dll
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\ref\testConsole.dll
+C:\Users\brian.otieno\source\repos\testConsole\bin\Debug\net5.0\testConsole.pdb
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.csproj.AssemblyReference.cache
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfoInputs.cache
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfo.cs
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.csproj.CoreCompileInputs.cache
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.dll
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\ref\testConsole.dll
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.pdb
+C:\Users\brian.otieno\source\repos\testConsole\obj\Debug\net5.0\testConsole.genruntimeconfig.cache
